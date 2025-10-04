@@ -59,6 +59,9 @@ This architecture ensures that the solver isn't just a stateless script; it lear
 
 <img width="783" height="242" alt="image" src="https://github.com/user-attachments/assets/946e9825-3c67-4875-b6c5-ba48e045fc42" />
 
+### REALITY CHECK
+<img width="593" height="358" alt="image" src="https://github.com/user-attachments/assets/fa17e273-9fcc-4edf-92b1-79685f1fc114" />
+
 
 ## How to Run
 

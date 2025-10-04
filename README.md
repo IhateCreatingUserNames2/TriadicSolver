@@ -55,6 +55,11 @@ The Triadic Solver is powered by the CEAF system, a modular cognitive architectu
 This architecture ensures that the solver isn't just a stateless script; it learns, adapts, and builds context across multiple problems and interactions.
 
 
+### Some testing results
+
+<img width="783" height="242" alt="image" src="https://github.com/user-attachments/assets/946e9825-3c67-4875-b6c5-ba48e045fc42" />
+
+
 ## How to Run
 
 1.  **Prerequisites:** Python 3.8+

@@ -54,32 +54,6 @@ The Triadic Solver is powered by the CEAF system, a modular cognitive architectu
 
 This architecture ensures that the solver isn't just a stateless script; it learns, adapts, and builds context across multiple problems and interactions.
 
-## Proven Success: A Case Study on P vs NP
-
-The solver's capabilities were validated against one of the most famous unsolved problems in computer science and mathematics: **P versus NP**.
-
-#### **The Result: A Perfect Generalization**
-
-1.  **Decomposition (Perfect & Profound):**
-    -   **ONE (Substrate):** Binary Strings
-    -   **TWO (Duality):** Verification ↔ Solution
-    -   **THREE (Emergence):** Computational Complexity Classes
-
-    The solver correctly identified the deepest, most fundamental components of the problem, demonstrating a true understanding beyond surface-level definitions.
-
-2.  **Reframe (Insightful & Correct):**
-    -   **Key Insight:** *If P equals NP, the tension between verification and solution collapses... this implies a fundamental reordering of problem-solving landscapes.*
-
-    This shows a grasp of the profound consequences of a potential solution.
-
-3.  **Solution Path (A Legitimate Research Program):**
-    The solver independently proposed a high-level research plan that mirrors decades of real human intellectual effort. It suggested:
-    -   Formalizing the duality using polynomial-time checkable predicates (the standard definition of NP).
-    -   Using an **NP-complete problem like SAT** as the candidate for analysis.
-    -   Applying advanced techniques like **statistical mechanics-inspired models** (phase transitions).
-    -   Using formal proof techniques like **diagonalization** or **oracle separations**.
-
-This result proves that the Triadic Solver is a **generalizable reasoning engine**. It can take a famously stuck problem, apply its unique philosophical lens, and generate a sophisticated, valid, and concrete plan for solving it.
 
 ## How to Run
 

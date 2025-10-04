@@ -1,5 +1,9 @@
 # The Triadic Solver: An AI Reasoning Engine for Intractable Problems --------- BE AWARE, THIS IS CRACKPOT THEORY
 
+
+## This is meant for EXPLORATION of alternative thoughts/paths 
+
+
 The Triadic Solver is a novel reasoning framework designed to tackle complex, "stuck" problems that resist traditional, linear analysis. It is not a simple question-answering script; it is a structured, multi-phase process powered by the **CEAF (Coherent Emergence Agent Framework)**, a custom cognitive architecture that provides the solver with memory, metacognition, and a sense of narrative identity.
 
 The solver's primary function is to reframe intractable problems by identifying their fundamental components through a unique philosophical lens: **The Triadic Emergence Pattern**.
